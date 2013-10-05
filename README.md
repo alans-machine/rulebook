@@ -1,4 +1,4 @@
 rulebook
 ========
 
-A program that creates a rulebook from machine code
+A program that creates a rulebook from machine code.
