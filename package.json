@@ -1,6 +1,6 @@
 {
   "name": "rulebook",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A program that creates a rulebook from machine code.",
   "main": "lib/rulebook.js",
   "scripts": {
