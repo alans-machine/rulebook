@@ -12,7 +12,7 @@ if (!file){
     return;
 }
 
-fs.readFile('test/successor.code', function(error, data){
+fs.readFile(file, function(error, data){
     if (error) {
 	throw error;
     }
