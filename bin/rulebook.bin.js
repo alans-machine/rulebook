@@ -3,7 +3,7 @@
 var fs = require('fs');
 var doT = require('dot');
 var parser = require('machine-code');
-var EnhancedParseError = require('./parse-error');
+var EnhancedParseError = require('../lib/parse-error');
 
 var file = process.argv[2];
 
