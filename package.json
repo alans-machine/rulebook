@@ -1,0 +1,21 @@
+{
+  "name": "rulebook",
+  "version": "0.0.0",
+  "description": "A program that creates a rulebook from machine code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alans-machine/rulebook.git"
+  },
+  "keywords": [
+    "turing",
+    "machine"
+  ],
+  "author": "Daan van Berkel",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "c301031ea6a6ce65603e7a255f05ce92db2ee864"
+}
