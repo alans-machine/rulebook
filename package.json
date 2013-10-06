@@ -17,5 +17,8 @@
   "author": "Daan van Berkel",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "gitHead": "c301031ea6a6ce65603e7a255f05ce92db2ee864"
+  "gitHead": "c301031ea6a6ce65603e7a255f05ce92db2ee864",
+  "dependencies": {
+    "machine-code": "~1.0.0"
+  }
 }
